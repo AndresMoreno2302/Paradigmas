@@ -38,4 +38,4 @@ python graficador.py
 
 Andres Moreno – 4to semestre, Ciencias de la Computación e Inteligencia Artificial
 
-# Paradigmas
+# Paradigmas De Programacion
